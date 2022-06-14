@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[2868],{2868:function(o,e,s){o.exports=s.p+"static/media/kamaz_logo.6e8cade79f40550675f5.svg"}}]);

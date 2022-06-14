@@ -1,0 +1,9 @@
+In one of the projects related to localization of objects by point clouds, it became necessary to conduct virtual experiments, because there was a lack of real world data. I was given the task to make a virtual depth camera that would allow to simulate a real sensor and get point clouds from various angles, having CAD models of all objects in the scene.
+
+By its working principles the depth camera is similar to a regular camera, but in addition to the brightness of each pixel it gives the three-dimensional coordinates of the corresponding point. Knowing the position of the camera during each shot, it's possible to merge several point clouds captured from different angles and get a detailed point cloud of the scene, which can be much larger than the camera's field of view.
+
+The method I developed uses the ray casting algorithm. It simulates propagation of light rays from each pixel of the camera's matrix towards the scene and allows to determine coordinates of intersection points of the rays with objects in the scene. This method uses the AABB tree (axis aligned bounding box tree) data structure from the LibIGL library to find intersection points of the rays with the objects. For every ray the closest to the camera intersection point is taken as a result.
+
+This approach allows to simulate a real depth camera pretty accurately. It is possible to change such parameters as the matrix resolution, horizontal and vertical angles of view (FOV), and transformation matrix defining position of the camera in the scene. This algorithm makes it easy to generate synthetic data when we don't have a real camera or an object to scan, but we know the camera parameters and have a 3D model of the object. In addition, random noise can be added to the resulting point cloud to make the data more like the real one.
+
+In the figures below, you can see the point clouds obtained by the virtual depth camera. As the object to scan the model of the mannequin head was used.

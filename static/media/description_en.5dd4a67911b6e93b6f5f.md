@@ -1,0 +1,7 @@
+A weld groove is a channel between two metal pieces, which need to be joined. It allows a welder to penetrate the whole thickness of the pieces and create a strong weld. Geometry of the weld groove is defined by the so called root opening and root face, which are denoted as "b" and "c" respectively on the image below.
+
+In robotic welding of workpieces with early prepared grooves, it becomes necessary to automatically determine the geometrical parameters of this groove. These parameters are affecting the choice of welding mode, which directly affects the quality of the resulting weld. Thus, the purpose of this work was to create and implement an algorithm for automatically determine the required parameters.
+
+During an automated welding process a profile sensor mounted on an industrial robotic arm is used often. This sensor gives a set of 2D points in the laser plane (profile of the object), which then can be transformed to the world coordinate system. Moving this sensor along the weld groove ang gathering the profiles we can collect a point cloud of the surface of interest.
+
+The algorithm I've developed is based on approximating the point cloud by a number of planes using the RANSAC method and searching for points on the bevel of the groove. The required parameters are calculated separately for each profile. They can be filtered to exclude outliers using, for example, median filtration. Resulting values of the root opening and root face can be calculated by averaging of the corresponding values of all the profiles.

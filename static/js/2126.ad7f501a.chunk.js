@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[2126],{2126:function(t,c,e){t.exports=e.p+"static/media/accept.9fd5c4fa369314d3d3b0.wav"}}]);

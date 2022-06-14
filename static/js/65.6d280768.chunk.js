@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[65],{65:function(o,e,s){o.exports=s.p+"static/media/eidos_robotics_logo.e6c1f21fee7961312827.svg"}}]);

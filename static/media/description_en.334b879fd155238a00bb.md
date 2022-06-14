@@ -1,0 +1,5 @@
+On this page you can find a few projects I've been working on in my spare time. I like explanatory visualizations of the work of various algorithms, especially in geometry, so I tried to create animations programmatically with the Python language using the PyGame, VTK and even Blender libraries. Videos with these animations are available on my YouTube channel.
+
+But all these animations were too hard to implement and they took too much time. So I decided to create a small library that would allow me to create such animations more faster. The best option was to create web application that would make animations not only clear, but also interactive. In addition, I wanted to create my own portfolio website. So in mid-2021, I started to learn web development.
+
+I decided to use SVG for animation because with a small number of drawing objects it provides the best performance and image quality for any screen resolution. Also, it easily allows to implement interaction with objects. For user interface I used the React and MaterialUI libraries. All code was written in the TypeScript language.
