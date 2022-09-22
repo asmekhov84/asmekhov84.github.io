@@ -1,6 +1,6 @@
 The skills listed below are ordered by descending of experience.
 
-**Languages**: C/C++, Python, MATLAB, JavaScript/TypeScript, C#, Delphi
+**Languages**: C/C++, Python, MATLAB, JavaScript/TypeScript, C#, Delphi, MySQL
 
 **Libraries**: STL, Eigen, PCL, OpenCV, React, NumPy
 

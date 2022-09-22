@@ -1,6 +1,6 @@
 Перечисленные ниже навыки расположены в порядке убывания опыта.
 
-**Языки**: C/C++, Python, MATLAB, JavaScript/TypeScript, C#, Delphi
+**Языки**: C/C++, Python, MATLAB, JavaScript/TypeScript, C#, Delphi, MySQL
 
 **Библиотеки**: STL, Eigen, PCL, OpenCV, React, NumPy
 
