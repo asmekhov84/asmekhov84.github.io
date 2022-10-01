@@ -3,9 +3,9 @@
 факультет прикладной математики и информационных технологий,
 2008-2013 гг. (диплом с отличием)
 
-**Языки**: русский (родной), технический английских (средний уровень)
+**Языки**: русский (родной), английский (средний уровень)
 
-**Профили**: [LeetCode](https://leetcode.com/artemiysmekhov84), [HackerRank](https://www.hackerrank.com/artemiysmekhov84), [SoloLearn](https://www.sololearn.com/Profile/587411)
+**Профили**: [LinkedIn](https://www.linkedin.com/in/artemiysmekhov84), [LeetCode](https://leetcode.com/artemiysmekhov84), [HackerRank](https://www.hackerrank.com/artemiysmekhov84), [Sololearn](https://www.sololearn.com/Profile/587411)
 
 **Сертификаты**:
 
@@ -15,8 +15,13 @@
 - [Intro to Deep Learning (Kaggle)](https://www.kaggle.com/learn/certification/artemiysmekhov84/intro-to-deep-learning)
 - [Python (Kaggle)](https://www.kaggle.com/learn/certification/artemiysmekhov84/python)
 - [Pandas (Kaggle)](https://www.kaggle.com/learn/certification/artemiysmekhov84/pandas)
-- [Machine Learning By Stanford University (Coursera)](https://www.coursera.org/account/accomplishments/certificate/2FHFPN4Q363H)
+- [Machine Learning (Coursera)](https://www.coursera.org/account/accomplishments/certificate/2FHFPN4Q363H)
+- [Problem Solving (Intermediate) (HackerRank)](https://www.hackerrank.com/certificates/3d510e02855b)
+- [Python (Basic) (HackerRank)](https://www.hackerrank.com/certificates/96f24f0e3cf1)
+- [SQL (Basic) (HackerRank)](https://www.hackerrank.com/certificates/b48cd6b7716d)
 - [C++. Сложный уровень (GeekBrains)](https://gb.ru/certificates/54173.ru)
+- [C++ (Sololearn)](https://www.sololearn.com/certificates/CT-VUTJVIAC)
+- [C# (Sololearn)](https://www.sololearn.com/certificates/CT-W0X363LO)
 
 Был в числе авторов [метода повышения точности позиционирования промышленного робота](https://patents.google.com/patent/RU2671787C1/ru), разработанного в компании Эйдос Робототехника и запатентованного в 2018 году.
 

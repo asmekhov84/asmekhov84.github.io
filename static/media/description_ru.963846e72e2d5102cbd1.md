@@ -6,7 +6,7 @@
 
 **Фреймворки**: Qt, .NET
 
-**Среды разработки**: Visual Studio, VS Code, MATLAB, CLion, RAD Studio, Qt Creator
+**Среды разработки**: Visual Studio, VS Code, MATLAB, Qt Creator, CLion, RAD Studio
 
 **Системы контроля версий**: Git, SVN
 

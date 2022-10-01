@@ -6,7 +6,7 @@ The skills listed below are ordered by descending of experience.
 
 **Frameworks**: Qt, .NET
 
-**IDE**: Visual Studio, VS Code, MATLAB, CLion, RAD Studio, Qt Creator
+**IDE**: Visual Studio, VS Code, MATLAB, Qt Creator, CLion, RAD Studio
 
 **Version control**: Git, SVN
 
