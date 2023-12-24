@@ -1,0 +1,5 @@
+In order to accurately operate a tool installed on an industrial robotic manipulator, we must know exactly position of this tool relative to the robot's flange (a so called Tool Center Point or TCP). In other words, a matrix transformation from the tool coordinate system to the flange coordinate system must be determined. The purpose of this work was to create a simple utility that would allow to calculate such a transformation.
+
+To calibrate the TCP there is [the algorithm](http://www.google.ru/patents/US5929584/) based on multiple touching of some fixed (reference) point by the TCP at various positions of the robot's flange and recording all these positions. By the set of obtained positions using the method of least squares it is possible to calculate the required transformation matrix.
+
+The program I developed implements the existing algorithm. This is a simple console application written on the C++ language using the Eigen library for linear algebra operations. On startup it loads data with the positions of the robot's flange from a prepared file and displays the result of the calculation on the screen.
