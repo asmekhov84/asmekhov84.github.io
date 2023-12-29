@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[993],{993:(p,e,o)=>{p.exports=o.p+"static/media/8.d6b83bf566b5836ccb38.png"}}]);

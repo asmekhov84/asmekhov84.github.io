@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[5],{5:(e,o,p)=>{e.exports=p.p+"static/media/description_en.1d909653a64369fe2026.md"}}]);

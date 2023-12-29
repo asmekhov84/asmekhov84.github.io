@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[462],{462:function(e,o,c){e.exports=c.p+"static/media/background.e5bac02c649f2e3f097f.webp"}}]);

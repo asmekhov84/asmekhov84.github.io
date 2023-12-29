@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[2966],{2966:function(e,s,o){e.exports=o.p+"static/media/asbisc_enterprises_logo.ba3e417be444c7d71331.svg"}}]);

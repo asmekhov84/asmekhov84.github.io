@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[5568],{5568:function(o,e,s){o.exports=s.p+"static/media/abagy_robotic_systems_logo.84928e1b4ecadd29e998.svg"}}]);
