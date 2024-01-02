@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.78e2c7c2.css",
-    "main.js": "/static/js/main.461f908d.js",
+    "main.js": "/static/js/main.be7a5201.js",
     "static/js/5568.7e19f980.chunk.js": "/static/js/5568.7e19f980.chunk.js",
     "static/js/2966.25a33701.chunk.js": "/static/js/2966.25a33701.chunk.js",
     "static/js/65.9ca43732.chunk.js": "/static/js/65.9ca43732.chunk.js",
@@ -246,18 +246,22 @@
     "static/media/7.jpg": "/static/media/7.a9ed6fb693d2c3aafa42.jpg",
     "static/media/kazan_federal_university_logo.svg": "/static/media/kazan_federal_university_logo.7d21b52c6c856fc1c51d.svg",
     "static/media/abagy_robotic_systems_logo.svg": "/static/media/abagy_robotic_systems_logo.84928e1b4ecadd29e998.svg",
+    "static/media/accept.mp3": "/static/media/accept.0f8114894ce819a2e4c1.mp3",
     "static/media/asbisc_enterprises_logo.svg": "/static/media/asbisc_enterprises_logo.ba3e417be444c7d71331.svg",
+    "static/media/reject.mp3": "/static/media/reject.ac9131cf940bc45d423f.mp3",
     "static/media/eidos_robotics_logo.svg": "/static/media/eidos_robotics_logo.e6c1f21fee7961312827.svg",
     "static/media/description_ru.md": "/static/media/description_ru.31d6cfe0d16ae931b73c.md",
+    "static/media/select.mp3": "/static/media/select.cb44e1a222992d98de50.mp3",
     "static/media/kamaz_logo.svg": "/static/media/kamaz_logo.6e8cade79f40550675f5.svg",
+    "static/media/check.mp3": "/static/media/check.1a8b24c9cc39ae1e7f5d.mp3",
     "static/media/description_en.md": "/static/media/description_en.31d6cfe0d16ae931b73c.md",
     "index.html": "/index.html",
     "static/media/no_logo.svg": "/static/media/no_logo.f23fe1894d9ff3d050b1.svg",
     "main.78e2c7c2.css.map": "/static/css/main.78e2c7c2.css.map",
-    "main.461f908d.js.map": "/static/js/main.461f908d.js.map"
+    "main.be7a5201.js.map": "/static/js/main.be7a5201.js.map"
   },
   "entrypoints": [
     "static/css/main.78e2c7c2.css",
-    "static/js/main.461f908d.js"
+    "static/js/main.be7a5201.js"
   ]
 }
